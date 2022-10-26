@@ -20,6 +20,7 @@
  - Node
  - React JavaScript
  - Git
+ - JSON
  - Vite
 
 ## Reference
